@@ -9,3 +9,6 @@ Week 1:
 Week 2:
 - Focused on the technology used to make visualizations in python, matplotlib, and introduced me to best practices when creating basic charts and how to realize design decisions in the framework. 
 
+Week 3:
+- Explored charting fundamentals. For this week’s assignment, I was abled to implement a new visualization technique based on academic research. 
+- Created an interactive chart.
