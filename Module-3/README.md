@@ -8,4 +8,4 @@ Useful Readings:
 
 Assignment 3 Final graphics:
 
-![image](assignment_3.PNG)s
+![image](assignment_3.PNG)
